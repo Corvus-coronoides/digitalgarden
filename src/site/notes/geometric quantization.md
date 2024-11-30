@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/geometric quantization/"}
+{"dg-publish":true,"permalink":"/geometric quantization/","dgPassFrontmatter":true,"created":"2024-11-24T13:54:58.576+01:00","updated":"2024-11-30T17:53:01.985+01:00"}
 ---
 
 

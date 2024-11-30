@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Seiberg-Witten/"}
+{"dg-publish":true,"permalink":"/Seiberg-Witten/","dgPassFrontmatter":true,"created":"2024-11-24T14:36:24.361+01:00","updated":"2024-11-30T17:54:52.820+01:00"}
 ---
 
 

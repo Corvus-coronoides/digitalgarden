@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hamiltonian/"}
+{"dg-publish":true,"permalink":"/Hamiltonian/","dgPassFrontmatter":true,"created":"2024-11-24T12:55:22.031+01:00","updated":"2024-11-30T17:53:31.130+01:00"}
 ---
 
 

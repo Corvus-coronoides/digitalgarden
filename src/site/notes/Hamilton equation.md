@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hamilton equation/"}
+{"dg-publish":true,"permalink":"/Hamilton equation/","dgPassFrontmatter":true,"created":"2024-11-24T13:19:48.360+01:00","updated":"2024-11-30T17:53:19.770+01:00"}
 ---
 
 

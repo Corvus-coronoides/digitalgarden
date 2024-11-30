@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jones polynomials/"}
+{"dg-publish":true,"permalink":"/Jones polynomials/","dgPassFrontmatter":true,"created":"2024-11-26T08:11:15.085+01:00","updated":"2024-11-30T17:53:41.336+01:00"}
 ---
 
 

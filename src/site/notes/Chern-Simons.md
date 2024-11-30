@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Chern-Simons/"}
+{"dg-publish":true,"permalink":"/Chern-Simons/","dgPassFrontmatter":true,"created":"2024-11-24T14:21:12.350+01:00","updated":"2024-11-30T17:52:22.381+01:00"}
 ---
 
 

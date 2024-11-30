@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/string theory, M theory/"}
+{"dg-publish":true,"permalink":"/string theory, M theory/","dgPassFrontmatter":true,"created":"2024-11-24T14:48:22.634+01:00","updated":"2024-11-30T17:55:06.333+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/central extension/"}
+{"dg-publish":true,"permalink":"/central extension/","dgPassFrontmatter":true,"created":"2024-11-24T14:59:32.123+01:00","updated":"2024-11-30T17:51:39.948+01:00"}
 ---
 
 

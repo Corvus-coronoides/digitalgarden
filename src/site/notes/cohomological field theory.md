@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cohomological field theory/"}
+{"dg-publish":true,"permalink":"/cohomological field theory/","dgPassFrontmatter":true,"created":"2024-11-24T14:26:35.033+01:00","updated":"2024-11-30T17:52:33.676+01:00"}
 ---
 
 

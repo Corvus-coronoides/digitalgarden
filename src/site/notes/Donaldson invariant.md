@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Donaldson invariant/"}
+{"dg-publish":true,"permalink":"/Donaldson invariant/","dgPassFrontmatter":true,"created":"2024-11-24T14:36:24.361+01:00","updated":"2024-11-30T17:52:48.783+01:00"}
 ---
 
 
