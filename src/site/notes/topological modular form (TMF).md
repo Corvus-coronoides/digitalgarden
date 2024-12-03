@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topological modular form (TMF)/","dgPassFrontmatter":true,"created":"2024-11-24T14:26:35.033+01:00","updated":"2024-11-30T17:55:22.283+01:00"}
+{"dg-publish":true,"permalink":"/topological modular form (TMF)/","dgPassFrontmatter":true,"created":"2024-11-24T14:26:35.033+01:00","updated":"2024-12-03T17:14:19.496+01:00"}
 ---
 
 
@@ -9,3 +9,6 @@ Then, Brown's representability theorem gives a cohomology: $E^{n}(X)=lim_{k\righ
 
 $E_{C/R}$ isn't a sheaf, but can be sheafified to a sheaf of $E_{\infty}$-ring spectrum (image) on $\mathscr{M}_{ell}$. Its global section is TMF. 
 Conjecture: the theory space of 2d, $\mathscr{N}=1$, anomaly d theories is TMF (spectrum). [[Witten genus\|Witten genus]] can map its 0th homotopy group to weak [[modular form\|modular form]]s, which is an isomorphism when no [[anomaly\|anomaly]].
+
+[[Witten index\|Witten index]]
+[[Bott periodicity\|Bott periodicity]]
