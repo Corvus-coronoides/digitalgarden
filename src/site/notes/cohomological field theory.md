@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cohomological field theory/","dgPassFrontmatter":true,"created":"2024-11-24T14:26:35.033+01:00","updated":"2024-11-30T17:52:33.676+01:00"}
+{"dg-publish":true,"permalink":"/cohomological field theory/","dgPassFrontmatter":true,"created":"2024-11-24T14:26:35.033+01:00","updated":"2024-12-15T15:55:15.043+01:00"}
 ---
 
 
-Cohomological field theory is a [[Witten type\|Witten type]] TQFT. Common examples are [[BRST quantization\|BRST quantization]] and [[CFT\|CFT]].
+Cohomological field theory is the [[Witten type\|Witten type]] TQFT. Common examples are [[BRST quantization\|BRST quantization]] and [[CFT\|CFT]].
 1. Q nilpotent: $Q^{2}=0$;
 2. physical states are Q-closed ((anti-)commutator);
 3. energy-momentum tensor is Q-exact;
