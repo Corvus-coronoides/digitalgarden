@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-home":true,"tags":["theme","gardenEntry","gardenEntry","gardenEntry"],"permalink":"/low-dimensional topology/","dgPassFrontmatter":true,"created":"2024-11-24T14:36:24.361+01:00","updated":"2024-12-28T12:46:08.898+01:00"}
+{"dg-publish":true,"dg-home":true,"tags":["theme","gardenEntry"],"permalink":"/low-dimensional topology/","dgPassFrontmatter":true,"created":"2024-11-24T14:36:24.361+01:00","updated":"2024-12-30T23:37:47.678+01:00"}
 ---
 
 
 1d: homeomorphic to line or circle
 2d: completely classified by [[genus\|genus]]
-3d: there exist a unique smooth structure. geometrization project. eg. knot theory-[[Jones polynomials\|Jones polynomials]], why use surgery? geometrization?
+3d: there exist a unique [[smooth structure\|smooth structure]]. geometrization project. eg. knot theory-[[Jones polynomials\|Jones polynomials]], why use surgery? geometrization?
 4d: open problem. 
      eg. [[Donaldson invariant\|Donaldson invariant]], [[Seiberg-Witten\|Seiberg-Witten]] invariant, intersection forms.
       [[categorification\|categorification]]: The BPS sector of the Hilbert space of a TQFT gives a cohomology group, whose Euler characteristic is the invariant.  

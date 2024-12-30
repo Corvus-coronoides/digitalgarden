@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cohomological field theory/","dgPassFrontmatter":true,"created":"2024-11-24T14:26:35.033+01:00","updated":"2024-12-30T23:34:34.497+01:00"}
+{"dg-publish":true,"tags":["topic"],"permalink":"/cohomological field theory/","dgPassFrontmatter":true,"created":"2024-11-24T14:26:35.033+01:00","updated":"2024-12-30T23:39:03.341+01:00"}
 ---
 
 TQFT: [[intersection\|intersection]] theory, [[equivariant cohomology\|equivariant cohomology]]
