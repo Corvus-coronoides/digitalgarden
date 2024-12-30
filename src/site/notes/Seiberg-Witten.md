@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["topic"],"permalink":"/Seiberg-Witten/","dgPassFrontmatter":true,"created":"2024-11-24T14:36:24.361+01:00","updated":"2024-12-19T22:54:57.032+01:00"}
+{"dg-publish":true,"tags":["topic"],"permalink":"/Seiberg-Witten/","dgPassFrontmatter":true,"created":"2024-11-24T14:36:24.361+01:00","updated":"2024-12-30T23:33:29.139+01:00"}
 ---
 
 
@@ -8,3 +8,4 @@ It's an infrared [[effective theory\|effective theory]] of 4d $\mathscr{N}=2$ [[
 
 After [[topological twist\|topological twist]], we obtain a [[Witten type\|Witten type]] TQFT and can construct the [[SW invariant\|SW invariant]] on the [[moduli space\|moduli space]] of connections. This invariant relates to [[monopole\|monopole]]s and classifies the [[smooth structure\|smooth structure]] on 4d manifolds ($\textcolor{red}{why?}$).
 
+[[intersection\|intersection]] theory
