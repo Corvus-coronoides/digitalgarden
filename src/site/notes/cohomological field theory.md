@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cohomological field theory/","dgPassFrontmatter":true,"created":"2024-11-24T14:26:35.033+01:00","updated":"2024-12-30T23:31:32.331+01:00"}
+{"dg-publish":true,"permalink":"/cohomological field theory/","dgPassFrontmatter":true,"created":"2024-11-24T14:26:35.033+01:00","updated":"2024-12-30T23:34:34.497+01:00"}
 ---
 
-TQFT: [[intersection\|intersection]] theory
+TQFT: [[intersection\|intersection]] theory, [[equivariant cohomology\|equivariant cohomology]]
 Cohomological field theory is the [[Witten type\|Witten type]] TQFT. Common examples are [[BRST quantization\|BRST quantization]] and [[CFT\|CFT]].
 1. Q nilpotent: $Q^{2}=0$;
 2. physical states are Q-closed ((anti-)commutator);
