@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Hamiltonian/","dgPassFrontmatter":true,"created":"2024-11-24T12:55:22.031+01:00","updated":"2024-11-30T17:53:31.130+01:00"}
+{"dg-publish":true,"permalink":"/Hamiltonian/","dgPassFrontmatter":true,"created":"2024-11-24T12:55:22.031+01:00","updated":"2025-01-11T18:25:06.254+01:00"}
 ---
 
 
-A Hamiltonian is a function on the [[phase space\|phase space]]. Consider when it's $T^{*}M$. Differentiating it to get a section of $T^{*}T^{*}M$, we can map this to a vector field on $T^{*}M$ (a section of $TT^{*}M$) by the [[musical isomorphism\|musical isomorphism]] $\#$, which is called Hamilton vector field.
+A Hamiltonian is a function on the [[phase space\|phase space]]. Consider when the phase space is $T^{*}M$. Differentiating the Hamiltonian to get a section of $T^{*}T^{*}M$, we can then map it to a vector field on $T^{*}M$ (namely, a section of $TT^{*}M$) by the [[musical isomorphism\|musical isomorphism]] $\#$, which is called [[Hamilton vector field\|Hamilton vector field]] and can be integrate to the Hamilton phase flow.
