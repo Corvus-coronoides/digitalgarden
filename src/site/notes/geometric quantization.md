@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/geometric quantization/","dgPassFrontmatter":true,"created":"2024-11-24T13:54:58.576+01:00","updated":"2024-11-30T17:53:01.985+01:00"}
+{"dg-publish":true,"tags":["basement"],"permalink":"/geometric quantization/","dgPassFrontmatter":true,"created":"2024-11-24T13:54:58.576+01:00","updated":"2025-01-11T19:10:17.346+01:00"}
 ---
 
+Release the von Neumann condition in the Dirac canonical quantization. Alternatively, modifying the relation between Poisson bracket and Lie bracket gives rise to the [[deformation quantization\|deformation quantization]].
 
 We may have different (or even no; $\textcolor{red}{examples? Meaning\; of\;no\;quantization?}$) prequantizations, which assembles the [[phase space\|phase space]] (for gauge fields, $\textcolor{red}{the\;moduli\; space \;of \;connections?}$) a complex line bundle and map Poisson algebra (spanned by real smooth functions on the phase space) to Lie brackets.
 
