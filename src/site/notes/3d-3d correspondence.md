@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["topic"],"permalink":"/3d-3d correspondence/","dgPassFrontmatter":true,"created":"2025-02-10T18:12:09.515+01:00","updated":"2025-02-12T09:35:22.296+01:00"}
+{"dg-publish":true,"tags":["topic"],"permalink":"/3d-3d correspondence/","dgPassFrontmatter":true,"created":"2025-02-10T18:12:09.515+01:00","updated":"2025-02-12T20:52:59.775+01:00"}
 ---
 
 [[compactification\|compactification]] [[Chern-Simons\|Chern-Simons]]
@@ -10,6 +10,10 @@ Compactifying 6d (2,0) theory on $M_{3}$ gives a 3d $\mathscr{N}=2$ theory $T[M_
     eg. $L(k=0,1)=S^1\times S^2$ gives the [[superconformal index\|superconformal index]] of $T[M_3]$; when $M=S^3$, $T[M_3]$ is dual to free chiral multiplets; when $M=L(p,1)$, it's dual to moduli space of $N$ vortex in a $U(p)$ gauge theory $\mathscr{V}_{N,p}$
  
 ref: arxiv 1503.04809
+
+Similarly, we have 4d-2d correspondence also derived from 6d (2,0) theory.
+
+ref: arxiv 1306.4320
 
 [[categorification\|categorification]]
 Then, consider $T[M_{3}]$ assigning a Hilbert space to $D^{2}$, which is bigraded and thus categorifies a certain index--the half-index. From it can we derive the superconformal index and WRT invariant. (maybe another way to describe the 3d-3d correspondence)
