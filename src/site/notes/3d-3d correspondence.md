@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["topic"],"permalink":"/3d-3d correspondence/","dgPassFrontmatter":true,"created":"2025-02-10T18:12:09.515+01:00","updated":"2025-03-16T13:43:06.991+01:00"}
+{"dg-publish":true,"tags":["topic"],"permalink":"/3d-3d correspondence/","dgPassFrontmatter":true,"created":"2025-02-10T18:12:09.515+01:00","updated":"2025-03-16T18:03:15.426+01:00"}
 ---
 
 $M_3 \& T[M_3]$
@@ -12,7 +12,7 @@ Compactifying 6d (2,0) theory on $M_{3}$ gives a 3d $\mathscr{N}=2$ theory $T[M_
 ref: arxiv 1503.04809
 
 Brane construction:
-eg. $L(p,q)$: 1. Taking the [[Hopf fibration\|Hopf fibration]], reduce fivebranes on the fibre $S^1$ (Type IIA) and obtain a 3d $\mathscr{N}=2$  [[Chern-Simons\|Chern-Simons]] theory with RR flux (~level); 2. [[Dehn surgey\|Dehn surgey]]~6d (0,2) on the common boundary of the two solid torus gives 4d $\mathscr{N}=4$ SYM, which is viewed as on the "bordism" (interval of solid tori), so that its boundary conditions (boundary tori) are related by a duality/diffeomorphism consisting of S-dualities and T-dualities ([[Heegaard splitting\|Heegaard splitting]]). This is realized by a D3-brane (interval) stretched between two fivebranes, with the diffeomorphosm decomposed into a sequence of T and S actions (Type IIB).
+eg. $L(p,q)$: 1. Taking the [[Hopf fibration\|Hopf fibration]], reduce fivebranes on the fibre $S^1$ (Type IIA) and obtain a 3d $\mathscr{N}=2$  [[Chern-Simons\|Chern-Simons]] theory with RR flux (~level); 2. [[Dehn surgey\|Dehn surgey]]~6d (0,2) on the common boundary of the two solid torus gives 4d $\mathscr{N}=4$ SYM, which is viewed as on the "bordism" (interval of solid tori), so that its boundary conditions (boundary tori) are related by a duality/diffeomorphism consisting of S-actions and T-actions ([[Heegaard splitting\|Heegaard splitting]]). This is realized by a D3-brane (interval) stretched between two fivebranes (Type IIB).
 
 Similarly, we have 4d-2d correspondence also derived from 6d (2,0) theory.
 
