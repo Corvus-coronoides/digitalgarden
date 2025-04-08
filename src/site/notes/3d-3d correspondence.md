@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"tags":["topic"],"permalink":"/3d-3d correspondence/","dgPassFrontmatter":true,"created":"2025-02-10T18:12:09.515+01:00","updated":"2025-03-16T18:03:15.426+01:00"}
+{"dg-publish":true,"tags":["topic"],"permalink":"/3d-3d correspondence/","dgPassFrontmatter":true,"created":"2025-02-10T18:12:09.515+01:00","updated":"2025-04-08T21:40:30.213+02:00"}
 ---
 
 $M_3 \& T[M_3]$
 Compactifying 6d (2,0) theory on $M_{3}$ gives a 3d $\mathscr{N}=2$ theory $T[M_{3};G]$, which isn't on $M_{3}$ but only depends on the topology of $M_3$ and the simply-laced Lie algebra of $G$. We have following statements:
-1. $\mathscr{M}_{SUSY \; vacua}(T[M_3;G])\simeq \mathscr{M}_{flat}(M_{3};G_{\mathbb{C}})$, with the former on $\mathbb{R}^2\times S^1$
+1. $\mathscr{M}_{SUSY \; vacua}(T[M_3;G])\simeq \mathscr{M}_{flat}(M_{3};G_{\mathbb{C}})$, with the former on $\mathbb{R}^2\times S^1$. Notice that both have a (co)homology structure;
 
 2. $Z_{T[M_3;G]}[L(k,1)_{b}]=Z_{CS}^{(k,\sigma)}[M_3;G_{\mathbb{C}}]$.
     eg. $L(k=0,1)=S^1\times S^2$ gives the [[superconformal index\|superconformal index]] of $T[M_3]$; when $M=S^3$, $T[M_3]$ is dual to free chiral multiplets (in the sense of brane construction, $Z$-function (partition function on $S^3$) and superconformal index); when $M=L(p,1)$, it's dual to [[moduli space\|moduli space]] of $N$ vortex in a $U(p)$ gauge theory $\mathscr{V}_{N,p}$
