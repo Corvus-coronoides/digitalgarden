@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"tags":["theme","gardenEntry","gardenEntry"],"permalink":"/low-dimensional topology/","dgPassFrontmatter":true,"created":"2024-11-24T14:36:24.361+01:00","updated":"2025-03-16T13:47:58.903+01:00"}
+{"dg-publish":true,"dg-home":true,"tags":["theme","gardenEntry"],"permalink":"/low-dimensional topology/","dgPassFrontmatter":true,"created":"2024-11-24T14:36:24.361+01:00","updated":"2025-03-16T13:47:58.903+01:00"}
 ---
 
 
