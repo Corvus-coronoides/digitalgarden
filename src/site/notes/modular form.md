@@ -4,7 +4,7 @@
 
 The section of line bundles over the [[moduli stack\|moduli stack]] of [[elliptic curve\|elliptic curve]]s $\mathscr{M}_{ell}$.
 $M_{k}\simeq S_{k+12}$
-Modularity theorem: the map $\Gamma_{0}(N)\backslash(\mathbb{H}\cup\{cusps\})\rightarrow E$ from the modular curves to elliptic curves (through cusp forms) is surjective. It's part of the [[Langlands program\|Langlands program]]: Galois representation$\leftrightarrow$automorphic form
+Modularity theorem: the map $\Gamma_{0}(N)\backslash(\mathbb{H}\cup\{cusps\})\rightarrow E$ from the modular curves to elliptic curves (through cusp forms) is surjective. It's part of the [[Langlands Program\|Langlands program]]: Galois representation$\leftrightarrow$automorphic form
 Hecke operators
 
 2d CFT on torus
