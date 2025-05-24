@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"tags":["topic"],"permalink":"/categorification/","dgPassFrontmatter":true,"created":"2025-01-22T20:32:42.909+01:00","updated":"2025-04-26T19:10:02.938+02:00"}
+{"dg-publish":true,"tags":["topic"],"permalink":"/categorification/","dgPassFrontmatter":true,"created":"2025-01-22T20:32:42.909+01:00","updated":"2025-05-24T16:28:28.308+02:00"}
 ---
 
- The BPS sector of the Hilbert space of a twisted supersymmetric theory may give a cohomology group, whose Euler characteristic is exactly the studied invariant.  
+ The [[BPS\|BPS]] sector of the (bigraded) Hilbert space of a twisted supersymmetric theory may give a cohomology group, whose [[Euler characteristic\|Euler characteristic]] is exactly the studied invariant.  
      eg. 4d Seiberg-Witten theory and the 3d one, Khovanov homology & (colored) [[Jones polynomials\|Jones polynomials]], bigraded BPS Hilbert space $T[M_{3}]$ and half index $\hat{Z}_{a}(q)$ & [[superconformal index\|superconformal index]] & [[WRT invariant\|WRT invariant]] (3-manifold, SU(2) [[Chern-Simons\|Chern-Simons]] theory; suggested by [[3d-3d correspondence\|3d-3d correspondence]]), Q-cohomology& Witten index, the same as [[singular homology\|singular homology]] & Euler characteristic
 
 Conversely, decategorification is the dimensional reduction, where the partition function of the TQFT gives a graded trace by [[compactification\|compactification]] (periodic) and is then twisted into a homotopical invariant (when there's a $\mathbb{Z}\times\mathbb{Z}$ graded symmetry) of the corresponding (n-1)-manifold boundary. 
