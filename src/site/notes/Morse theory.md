@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["topic"],"permalink":"/Morse theory/","dgPassFrontmatter":true,"created":"2024-12-03T16:09:49.218+01:00","updated":"2025-01-12T11:28:23.337+01:00"}
+{"dg-publish":true,"tags":["topic"],"permalink":"/Morse theory/","dgPassFrontmatter":true,"created":"2024-12-03T16:09:49.218+01:00","updated":"2025-09-03T15:04:15.194+02:00"}
 ---
 
 1. [[supersymmetric\|supersymmetric]] QM
@@ -10,3 +10,5 @@
 3. Morse-Bott theory, homotopy
       generalization: the Hessian matrix can be degenerated except for the normal direction, so that critical points can form a closed manifold rather than a set of discrete points.
       Applied to the proof of [[Bott periodicity\|Bott periodicity]]. (generalized Morse fundamental theorem is applied to the loop space $\Omega$ and its submanifold $\Omega^{d}$, consisting of minimal geodesics/critical points of zero indices)
+4. [[Floer homology\|Floer homology]]: infinite dim (loop space) analogy of Morse homology.
+       [[symplectic geometry\|symplectic geometry]]
