@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["basement"],"permalink":"/equivariant cohomology/","dgPassFrontmatter":true,"created":"2024-11-29T19:44:11.122+01:00","updated":"2025-01-13T19:09:52.600+01:00"}
+{"dg-publish":true,"tags":["basement"],"permalink":"/equivariant cohomology/","dgPassFrontmatter":true,"created":"2025-10-12T20:31:18.818+08:00","updated":"2025-01-14T02:09:52.600+08:00"}
 ---
 
 Borel construction: $M_{G}=(M\times EG)/G=M\times_{G}EG$, where the quotient is regarding a diagonal action: $(e,x)\sim(e\cdot g^{-1},g\cdot x)$ (homotopic to $(e\cdot g^{-1},x)$? so $M_{G}$ is viewed as an associated vector bundle with base $BG$ and fibre $M$, not $M/G$!) 

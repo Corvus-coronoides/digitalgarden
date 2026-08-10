@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characteristic class/","dgPassFrontmatter":true,"created":"2024-11-24T14:21:12.350+01:00","updated":"2025-05-24T16:30:57.251+02:00"}
+{"dg-publish":true,"permalink":"/characteristic class/","dgPassFrontmatter":true,"created":"2025-10-12T20:31:18.818+08:00","updated":"2025-05-24T22:30:57.251+08:00"}
 ---
 
 definition:

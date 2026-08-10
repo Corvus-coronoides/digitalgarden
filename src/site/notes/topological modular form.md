@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["topic"],"permalink":"/topological modular form/","dgPassFrontmatter":true,"created":"2024-11-24T14:26:35.033+01:00","updated":"2025-05-24T16:23:40.403+02:00"}
+{"dg-publish":true,"tags":["topic"],"permalink":"/topological modular form/","dgPassFrontmatter":true,"created":"2025-10-12T20:31:18.865+08:00","updated":"2025-05-24T22:23:40.403+08:00"}
 ---
 
 

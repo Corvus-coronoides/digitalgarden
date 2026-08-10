@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/central extension/","dgPassFrontmatter":true,"created":"2024-11-24T14:59:32.123+01:00","updated":"2025-05-24T16:27:44.502+02:00"}
+{"dg-publish":true,"permalink":"/central extension/","dgPassFrontmatter":true,"created":"2025-10-12T20:31:18.808+08:00","updated":"2025-05-24T22:27:44.502+08:00"}
 ---
 
 Obtain linear representation at the cost of homomorphism (w.r.t. original algebra) by lifting.

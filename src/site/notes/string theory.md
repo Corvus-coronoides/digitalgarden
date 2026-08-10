@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["basement"],"permalink":"/string theory/","dgPassFrontmatter":true,"created":"2024-11-24T14:48:22.634+01:00","updated":"2024-12-19T22:53:20.518+01:00"}
+{"dg-publish":true,"tags":["theme"],"permalink":"/string theory/","dgPassFrontmatter":true,"created":"2025-10-12T20:31:18.861+08:00","updated":"2026-08-10T21:04:47.956+08:00"}
 ---
 
 

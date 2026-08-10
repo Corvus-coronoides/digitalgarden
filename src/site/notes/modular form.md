@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["topic"],"permalink":"/modular form/","dgPassFrontmatter":true,"created":"2024-11-24T14:26:35.033+01:00","updated":"2025-05-24T16:22:48.962+02:00"}
+{"dg-publish":true,"tags":["topic"],"permalink":"/modular form/","dgPassFrontmatter":true,"created":"2025-10-12T20:31:18.837+08:00","updated":"2025-05-24T22:22:48.962+08:00"}
 ---
 
 The section of line bundles over the [[moduli stack\|moduli stack]] of [[elliptic curve\|elliptic curve]]s $\mathscr{M}_{ell}$.

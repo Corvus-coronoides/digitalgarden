@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/limit and colimit/","dgPassFrontmatter":true,"created":"2024-11-24T14:26:35.033+01:00","updated":"2024-12-04T14:46:51.234+01:00"}
+{"dg-publish":true,"permalink":"/limit and colimit/","dgPassFrontmatter":true,"created":"2025-10-12T20:31:18.837+08:00","updated":"2024-12-04T21:46:51.234+08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["basement"],"permalink":"/geometric quantization/","dgPassFrontmatter":true,"created":"2024-11-24T13:54:58.576+01:00","updated":"2025-01-11T19:10:17.346+01:00"}
+{"dg-publish":true,"tags":["basement"],"permalink":"/geometric quantization/","dgPassFrontmatter":true,"created":"2025-10-12T20:31:18.818+08:00","updated":"2025-01-12T02:10:17.346+08:00"}
 ---
 
 Release the von Neumann condition in the Dirac canonical quantization. Alternatively, modifying the relation between Poisson bracket and Lie bracket gives rise to the [[deformation quantization\|deformation quantization]].

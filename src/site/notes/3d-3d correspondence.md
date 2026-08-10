@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["topic"],"permalink":"/3d-3d correspondence/","dgPassFrontmatter":true,"created":"2025-02-10T18:12:09.515+01:00","updated":"2025-09-03T15:06:30.915+02:00"}
+{"dg-publish":true,"tags":["topic"],"permalink":"/3d-3d correspondence/","dgPassFrontmatter":true,"created":"2025-10-12T20:31:18.808+08:00","updated":"2025-09-03T21:06:30.915+08:00"}
 ---
 
 $M_3 \& T[M_3]$

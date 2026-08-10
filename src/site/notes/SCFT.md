@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["topic"],"permalink":"/SCFT/","dgPassFrontmatter":true,"created":"2025-09-08T14:01:17.107+02:00","updated":"2025-09-08T14:16:19.954+02:00"}
+{"dg-publish":true,"tags":["topic"],"permalink":"/SCFT/","dgPassFrontmatter":true,"created":"2025-10-12T20:31:18.853+08:00","updated":"2025-09-08T20:16:19.954+08:00"}
 ---
 
 [[conformal\|conformal]] [[supersymmetric\|supersymmetric]] [[superconformal index\|superconformal index]]

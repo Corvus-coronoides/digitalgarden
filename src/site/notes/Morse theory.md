@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["topic"],"permalink":"/Morse theory/","dgPassFrontmatter":true,"created":"2024-12-03T16:09:49.218+01:00","updated":"2025-09-03T15:04:15.194+02:00"}
+{"dg-publish":true,"tags":["topic"],"permalink":"/Morse theory/","dgPassFrontmatter":true,"created":"2025-10-12T20:31:18.837+08:00","updated":"2025-09-03T21:04:15.194+08:00"}
 ---
 
 1. [[supersymmetric\|supersymmetric]] QM

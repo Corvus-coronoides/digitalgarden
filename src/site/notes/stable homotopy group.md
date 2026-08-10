@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["basement"],"permalink":"/stable homotopy group/","dgPassFrontmatter":true,"created":"2024-12-14T13:25:48.003+01:00","updated":"2025-09-03T15:02:08.159+02:00"}
+{"dg-publish":true,"tags":["basement"],"permalink":"/stable homotopy group/","dgPassFrontmatter":true,"created":"2025-10-12T20:31:18.861+08:00","updated":"2025-09-03T21:02:08.159+08:00"}
 ---
 
 Bott periodicity

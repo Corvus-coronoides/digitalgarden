@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["basement"],"permalink":"/intersection theory/","dgPassFrontmatter":true,"created":"2025-01-09T20:15:32.860+01:00","updated":"2025-01-09T20:57:15.387+01:00"}
+{"dg-publish":true,"tags":["basement"],"permalink":"/intersection theory/","dgPassFrontmatter":true,"created":"2025-10-12T20:31:18.833+08:00","updated":"2025-01-10T03:57:15.387+08:00"}
 ---
 
 TQFT: hep-th/9411210 P81 view [[moduli space\|moduli space]] as the zero sets of sections of the localization bundle~EOM

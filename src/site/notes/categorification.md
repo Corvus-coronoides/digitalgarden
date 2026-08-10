@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["topic"],"permalink":"/categorification/","dgPassFrontmatter":true,"created":"2025-01-22T20:32:42.909+01:00","updated":"2025-09-03T15:06:00.422+02:00"}
+{"dg-publish":true,"tags":["topic"],"permalink":"/categorification/","dgPassFrontmatter":true,"created":"2025-10-12T20:31:18.808+08:00","updated":"2025-09-03T21:06:00.422+08:00"}
 ---
 
  The [[BPS\|BPS]] sector of the (bigraded) Hilbert space of a twisted supersymmetric theory may give a cohomology group, whose [[Euler characteristic\|Euler characteristic]] is exactly the studied invariant.  
