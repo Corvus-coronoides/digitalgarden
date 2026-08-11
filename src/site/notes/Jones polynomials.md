@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"tags":["topic"],"permalink":"/Jones polynomials/","dgPassFrontmatter":true,"created":"2025-10-12T20:31:18.835+08:00","updated":"2025-04-30T18:35:36.677+08:00"}
+{"dg-publish":true,"tags":["topic"],"permalink":"/Jones polynomials/","dgPassFrontmatter":true,"created":"2025-10-12T20:31:18.835+08:00","updated":"2026-08-11T16:26:38.897+08:00"}
 ---
 
-
+[[TQFT\|TQFT]] [[Chern-Simons\|Chern-Simons]]
 1. We can focus on the computations of knots invariants in $S^{3}$, because other three-manifold can be reduced to $S^{3}$ by [[surgery\|surgery]]: cut out a 2d thicken circle $M_{R}$, make a diffeomorphism (glue to create genus?) to its boundary and then stick back (eg. stick a sphere with a handle). This can be seen by considering vice versa: $S^{3}$ can be constructed to any three-manifold by surgery (compare their time slices).
 
     This operation results in a transformation on the states on  $M_{R}$. By applying surgery to the knots ($M_{R}$), we can make knots move in  $S^{3}$ and do computations.

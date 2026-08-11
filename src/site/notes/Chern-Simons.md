@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"tags":["topic"],"permalink":"/Chern-Simons/","dgPassFrontmatter":true,"created":"2025-10-12T20:31:18.818+08:00","updated":"2025-09-03T20:59:45.276+08:00"}
+{"dg-publish":true,"tags":["topic"],"permalink":"/Chern-Simons/","dgPassFrontmatter":true,"created":"2025-10-12T20:31:18.818+08:00","updated":"2026-08-11T16:26:22.781+08:00"}
 ---
 
 
-It's a [[Schwartz type\|Schwartz type]] 2+1 d TQFT. 
+It's a [[Schwartz type\|Schwartz type]] 2+1 d [[TQFT\|TQFT]]. 
 1. When the 3-manifold $W$ is closed (so that can perform as a boundary), its Lagrangian can be viewed as the second [[Chern class\|Chern class]] on the bulk manifold.
 2. $W$ has a boundary: spatial slices/bdy corresponds to a [[CFT\|CFT]]--gauged WZW model, captures behavior of CS under gauge transformation with certain boundary conditions; vertical Wilson loop~[[character\|character]]s (operator map); wave functional~[[conformal block\|conformal block]]s; Hilbert space are the same, whose dim counts theta functions (genus>0~non-Abelian); its genus 0 3-pt correlator~Verlinde formula, 2-pt~metric of [[chiral ring\|chiral ring]]. This CS/[[WZW model\|WZW model]] duality is a kind of [[AdS\CFT correspondence\|AdS\CFT correspondence]].
    Give rise to $\phi F$ theory after integrating out time/vertical/non-Abelian fields. Reduce to 2d Yang-Mills when coupling $e\rightarrow0$. [[hep-th/9312104] The Verlinde Algebra And The Cohomology Of The Grassmannian](https://arxiv.org/abs/hep-th/9312104)
