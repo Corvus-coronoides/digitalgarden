@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["theme"],"permalink":"/defect/","dgPassFrontmatter":true,"created":"2026-08-11T16:10:18.610+08:00","updated":"2026-08-11T16:47:15.489+08:00"}
+{"dg-publish":true,"tags":["theme"],"permalink":"/defect/","dgPassFrontmatter":true,"created":"2026-08-11T16:10:18.610+08:00","updated":"2026-08-11T16:48:51.462+08:00"}
 ---
 
 $\textbf{Classification:}$
@@ -9,3 +9,5 @@ $M\simeq \mathbb{R}^{d}\cup \{\infty\}\simeq S^d$, while the change of framing (
 ![framing 1.png](/img/user/framing%201.png)
 background [[Chern-Simons\|Chern-Simons]] term? not gauge invariant but detecting the change of framing.
 Proposal. $Z[\Phi_b]$ (bulk) is classified by framed cobordism classes of submanifold of $X$ $\overset{Pontryagin-Thom}{\longrightarrow}\pi_{D}(S^{D-d})$ (whole spacetime$\rightarrow$normal bundle). 
+eg. $d=0$, point defect. 
+    $\pi_{D}(S^{D-d})=\mathbb{Z}$, charges.
